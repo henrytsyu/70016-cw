@@ -1,0 +1,7 @@
+[project]
+name = "70016-cw"
+version = "0.1.0"
+description = "Imperial College London COMP70016 Coursework - Natural Language Processing"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
