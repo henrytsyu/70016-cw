@@ -4,4 +4,10 @@ version = "0.1.0"
 description = "Imperial College London COMP70016 Coursework - Natural Language Processing"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "ipykernel>=7.2.0",
+    "matplotlib>=3.10.8",
+    "nltk>=3.9.3",
+    "pandas>=3.0.1",
+    "wordcloud>=1.9.6",
+]
